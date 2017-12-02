@@ -1,5 +1,5 @@
 ---
-title: The Case of the Italian Olives
+title: Final Project
 ---
 
 This is the home page

@@ -1,3 +1,14 @@
+---
+title: review EDA new title.
+notebook: Review-EDA.ipynb
+nav_include: 1
+---
+
+## Contents
+{:.no_toc}
+*  
+{: toc}
+
 
 
 
