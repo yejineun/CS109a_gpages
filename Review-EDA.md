@@ -1,7 +1,7 @@
 ---
+nav_include: 1
 title: review EDA new title.
 notebook: Review-EDA.ipynb
-nav_include: 1
 ---
 
 ## Contents

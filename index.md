@@ -2,9 +2,10 @@
 title: Final Project
 ---
 
-This is the home page
+Authors: Yejin Eun, Nick Morgan, and Antolin Moral Caballero
 
-## Lets have fun
+## Project goal
+The goal of this project is to create a recommendation engine for suggesting new restaurants to Yelp users. 
 
 >here is a quote
 
